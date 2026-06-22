@@ -1,5 +1,8 @@
 # ⚡ Raio-X da Conta de Luz
 
+🔗 **[Acesse o app ao vivo](https://energia-raiox-front.vercel.app)**
+
+
 **Descubra quais aparelhos realmente pesam na sua conta de luz — sem comprar nenhum medidor.**
 
 A conta de energia chega todo mês como um número só. A maioria das
