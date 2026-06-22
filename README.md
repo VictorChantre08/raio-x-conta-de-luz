@@ -1,7 +1,5 @@
 # ⚡ Raio-X da Conta de Luz
 
-🔗 **[Acesse o app ao vivo](https://energia-raiox-front.vercel.app)**
-
 
 **Descubra quais aparelhos realmente pesam na sua conta de luz — sem comprar nenhum medidor.**
 
@@ -118,3 +116,7 @@ Acesse `http://localhost:3000` com os dois servidores no ar.
 explorar um problema real do dia a dia brasileiro — entender a própria
 conta de luz — com dados genuínos do setor elétrico nacional (ANEEL,
 distribuidoras, CEP), em vez de um clone genérico de todo-list.
+
+
+
+🔗 **[Acesse o app ao vivo](https://energia-raiox-front.vercel.app)**
